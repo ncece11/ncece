@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikki</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
-<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ncece11&label=Profile%20views&color=0e75b6&style=flat" alt="ncece11" /> </p>
 
