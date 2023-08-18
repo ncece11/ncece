@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Front-End Design**
 
-- ⚡ Fun fact **Ada Lovelace happens to be the first computer programmer in the world. Lady Lovelace wrote the first ever computer program for the Analytical Engine. This program was written to calculate the seventh Bernoulli number used in mathematics.**
+- ⚡ Fun fact **The first “computer bug” was an actual bug.**
 
 ### ☕ Buy Me Coffee:  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/ncece11) 
 
