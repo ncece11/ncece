@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nikki 😺</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
 
-- 🌱 I’m currently learning **latest technology in Web Technology**
+- 🌱 I’m currently learning **latest Web Technology**
 
 - 💬 Ask me about **Front-End Design**
 
