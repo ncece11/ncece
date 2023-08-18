@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **Ada Lovelace happens to be the first computer programmer in the world. Lady Lovelace wrote the first ever computer program for the Analytical Engine. This program was written to calculate the seventh Bernoulli number used in mathematics.**
 
-### ☕ Buy Me Coffee: [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/ncece11) 
+### ☕ Buy Me Coffee:  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/ncece11) 
 
 ### 🌐 Socials: 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/ilanan_nikki)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B73B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikki-ilanan-a9107a164/) 
